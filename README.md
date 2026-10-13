@@ -27,8 +27,6 @@
 <!-- Секция для тянок. Замени ссылки на свои картинки! -->
 <!-- Картинки лучше загрузить прямо в этот же репозиторий или использовать Imgur -->
 <div align="center">
-  <img src="https://i.pinimg.com/1200x/ec/65/f1/ec65f19366eb18e139f9a03fb9559027.jpg" width="250" style="border-radius: 10px; margin: 10px;" alt="Waifu 1"/>
-  <img src="https://i.pinimg.com/736x/1a/2b/1a2b1a2b1a2b1a2b1a2b1a2b1a2b1a2b.jpg" width="250" style="border-radius: 10px; margin: 10px;" alt="Waifu 2"/>
   <img src="https://i.pinimg.com/736x/d2/14/6f/d2146f527b8fd2a841dcb2a3c4833c8d.jpg" width="250" style="border-radius: 10px; margin: 10px;" alt="Waifu 3"/>
 </div>
 
