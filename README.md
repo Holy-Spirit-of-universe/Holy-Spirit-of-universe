@@ -29,7 +29,7 @@
 <div align="center">
   <img src="https://i.pinimg.com/1200x/61/dc/c5/61dcc5f08807d42385ed0716517c0119.jpg" width="250" style="border-radius: 10px; margin: 10px;" alt="Waifu 1"/>
   <img src="https://i.pinimg.com/736x/1a/2b/1a2b1a2b1a2b1a2b1a2b1a2b1a2b1a2b.jpg" width="250" style="border-radius: 10px; margin: 10px;" alt="Waifu 2"/>
-  <img src="https://i.pinimg.com/736x/3c/4d/3c4d3c4d3c4d3c4d3c4d3c4d3c4d3c4d.jpg" width="250" style="border-radius: 10px; margin: 10px;" alt="Waifu 3"/>
+  <img src="[https://i.pinimg.com/736x/3c/4d/3c4d3c4d3c4d3c4d3c4d3c4d3c4d3c4d.jpg](https://i.pinimg.com/originals/d2/2c/7c/d22c7cb48544d75a8547e7a5f87390ab.jpg?nii=t)" width="250" style="border-radius: 10px; margin: 10px;" alt="Waifu 3"/>
 </div>
 
 <details open align="center">
